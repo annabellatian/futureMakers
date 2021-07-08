@@ -42,6 +42,13 @@ Hierarchy
         - Neural Network
             - Deep Learning
 
+Supervised machine learning
+Supervised machine learning: The program is “trained” on a pre-defined set of “training examples”, which then facilitate its ability to reach an accurate conclusion when given new data.
+Unsupervised machine learning: The program is given a bunch of data and must find patterns and relationships therein.
+| Supervised ML | Unsupervised ML |
+| ----------- | ----------- |
+| Trained on labelled data to extrapolate | Trained on unlabelled data to find patterns and relationships |
+| Ex. classification, regression | Ex. clustering (k-means clustering) |
 
 <a name="7-11"></a>
 ### Day 4: 7-11-2021   
