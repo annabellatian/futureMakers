@@ -18,12 +18,12 @@ I learned about the interconnetions and professions within STEM as well as with 
 
 <a name="7-9"></a>
 ### Day 2: 7-9-2021
-Story of self: Challenge, Choice, Outcome, Moral  
+Story of self: Challenge, Choice, Outcome, Moral<br>
 Public Narrative
 - Story of self: call to leadership
 - Story of now: strategy and action
-- Story of us: shared values and shared experience
-https://www.youtube.com/watch?v=Wc3KcMzPwFM
+- Story of us: shared values and shared experience<br>
+https://www.youtube.com/watch?v=Wc3KcMzPwFM <br>
 Challenge: being behind my peers in flute  
 Choice: choosing to work harder  
 Outcome: feeling proud of my work  
