@@ -36,6 +36,10 @@ I learned about the importance of creating a public narrative in order to engage
 
 <a name="7-10"></a>
 ## 7-10-2021     
+Artificial Intelligence
+- Machine Learning
+-- Neural Network
+--- Deep Learning
 
 
 <a name="7-11"></a>
