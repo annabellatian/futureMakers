@@ -3,6 +3,12 @@
 ## Responses
 - [7-8-2021](#7-8)
 - [7-9-2021](#7-9)
+- [7-10-2021](#7-10)
+- [7-11-2021](#7-11)
+- [7-12-2021](#7-12)
+- [7-13-2021](#7-13)
+- [7-14-2021](#7-14)
+- [7-15-2021](#7-15)
 
 <a name="7-8"></a>
 ## 7-8-2021              
@@ -94,3 +100,27 @@ Outcome: feeling proud of my work
 https://www.youtube.com/watch?v=Wc3KcMzPwFM
 
 I learned about the importance of creating a public narrative in order to engage your audience. This skill can be employed to connect with the audience. To be frank, I'm confused as to how it relates to leadership but still enjoyed the experience and learned about how to create my own story!
+
+
+<a name="7-10"></a>
+## 7-10-2021     
+
+
+<a name="7-11"></a>
+## 7-11-2021   
+
+
+<a name="7-12"></a>
+## 7-12-2021     
+
+
+<a name="7-13"></a>
+## 7-13-2021     
+
+
+<a name="7-14"></a>
+## 7-14-2021     
+
+
+<a name="7-15"></a>
+## 7-15-2021     
