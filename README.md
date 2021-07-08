@@ -1,5 +1,6 @@
 # futureMakers
 [7-8-2021](#7-8)
+
 [7-9-2021](#7-9)
 
 <a name="7-8"></a>
@@ -79,5 +80,16 @@ The questions we discussed interested me as I personally am considering various 
 
 <a name="7-9"></a>
 ## 7-9-2021
+Story of self: Challenge, Choice, Outcome, Moral
+Public Narrative
+Story of self: call to leadership
+Story of now: strategy and action
+Story of us: shared values and shared experience
 
-sometext
+Challenge: being behind my peers in flute
+Choice: choosing to work harder
+Outcome: feeling proud of my work
+
+https://www.youtube.com/watch?v=Wc3KcMzPwFM
+
+I learned about the importance of creating a public narrative in order to engage your audience. This skill can be employed to connect with the audience. To be frank, I'm confused as to how it relates to leadership but still enjoyed the experience and learned about how to create my own story!
