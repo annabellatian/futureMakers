@@ -19,9 +19,9 @@ I learned about the interconnetions and professions within STEM as well as with 
 ## 7-9-2021
 Story of self: Challenge, Choice, Outcome, Moral
 Public Narrative
-Story of self: call to leadership
-Story of now: strategy and action
-Story of us: shared values and shared experience
+- Story of self: call to leadership
+- Story of now: strategy and action
+- Story of us: shared values and shared experience
 
 Challenge: being behind my peers in flute
 Choice: choosing to work harder
