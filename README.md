@@ -30,7 +30,7 @@ Outcome: feeling proud of my work
 
 https://www.youtube.com/watch?v=Wc3KcMzPwFM
 
-I learned about the importance of creating a public narrative in order to engage your audience. This skill can be employed to connect with the audience and create a positive change in your community -- as with the case of xxx whose combined story of self, now, and us led him to be able to build a middle and high school in his home village through donations. To be frank, I'm confused as to how it relates to leadership but still enjoyed the experience and learned about how to create my own story!
+I learned about the importance of creating a public narrative in order to engage your audience. This skill can be employed to connect with the audience and create a positive change in your community -- as with the case of xxx whose combined story of self, now, and us led him to be able to build a middle and high school in his home village through donations. To be frank, I'm confused as to how it relates to leadership but still enjoyed the experience and learned about how to create my own story! Nevertheless, I really enjoyed Dr. David Kong's seminar and hope I can carry these skills onward.
 
 
 <a name="7-10"></a>
