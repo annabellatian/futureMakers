@@ -12,6 +12,7 @@
 
 <a name="7-8"></a>
 ## 7-8-2021              
+I hope to learn more about the applications of AI and how to implement it within projects. I don't understand a lot about AI algorithms and I want to be able to implement them into my own applications. Additionally, I hope to learn more abou the theory behind ideas like neural networks and deep learning as well as its future potential.  
 I learned about the interconnetions and professions within STEM as well as with computing. My focus group discussed the differences and similarities between these fields, which I found intriguing. Although all these subjects employ logic, one of my peers highlighted the differences in the ways they incorporate creativity. I think they all solve problems but take different processes and steps to reach a conclusion. 
 
 
