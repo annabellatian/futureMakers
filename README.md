@@ -47,7 +47,7 @@ Hierarchy
 | Used for classification and regression | Used for clustering |
 | Can be difficult and time-consuming to label datasets | Can have inaccuracies and find irrelevant relationships |  
 
-
+Scikit-Learn cannot visualize data without other data analysis librararies because Scikit-Learn is built to model data through supervised and unsupervised machine learning data. The module is built upon SciPy and therefore requires additional libraries to visualized data.
 
 <a name="7-11"></a>
 ### Day 4: 7-11-2021   
