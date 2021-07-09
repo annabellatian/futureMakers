@@ -51,6 +51,8 @@ Scikit-Learn cannot visualize data without other data analysis librararies becau
 
 <a name="7-11"></a>
 ### Day 4: 7-11-2021   
+I learned a lot about how deep learning works and what exactly Tensorflow and Tensor Processing Unit is.  
+One real world problem I've thought about is fraud and how people can sign fake signatures. By using ML to analyze a person's signature (or handwriting perhaps) the algorithm would be able to analyze the match between two samples. 
 
 
 <a name="7-12"></a>
