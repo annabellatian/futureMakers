@@ -66,8 +66,10 @@ Tensors: multi-dimensional arrays with uniform type
 - axes or dimension: dimension of tensor
 - size: number of items in a tensor  
 
-Tensorflow vs. Pytorch
+Tensorflow vs. Pytorch  
+Tensors are multi-dimensional arrays and are used in machine learning to encode multi-dimensional data. For example, a 3D space would require three dimensions: height, width, and depth. While most data can be represented through an array or matrix, tensors can often be the more intuitive and simple data structure depending on the data.  
 
+In the tutorial, I noticed that using Tensorflow, matplotlib, and other ML libraries allows the program to perform a lot of different functions. For instance, it is much simpler to create a graph/plot of data and output the result. Additionally, user Tensorflow allowed for a simple neural network to be created in just a few lines. While it is important to understand the underlying concepts, ML libraries make it easy to program a neural network.  
 
 
 <a name="7-13"></a>
