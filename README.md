@@ -137,7 +137,14 @@ Algorithmic bias can be avoided by using diverse and inclusive training data as 
   
 <a name="7-16"></a>
 ### Day 11: 7-16-2021   
-  
+|  | Convolutional Network | Fully Connected Neural Network |
+| --- | ----------- | ----------- |
+| Layers | - Convolutional layer <br /> - Pooling layer <br /> - Fully connected layer | - Series of fully connected layers |
+| Role | Creates feature map (extracts features) | Connects every neuron in one layer to every neuron in the other layer |
+| Applications | Most used for computer vision (image search, facial recognition, etc.) | Broadly applicable as it is structure agnostic |  
+
+https://medium.com/swlh/fully-connected-vs-convolutional-neural-networks-813ca7bc6ee5
+
   
   
 <a name="7-19"></a>
