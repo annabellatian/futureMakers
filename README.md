@@ -160,6 +160,10 @@ We learned about loss functions, which really helped to explain another aspect t
 ### Day 15: 7-20-2021   
 Activation Functions  
 Although we learned about activation functions before, we dove deeper into the topic, learning about the various types and how they actually work. While it got a bit confusing with the different types and the math behind them, I understand the general concept. I think the most important aspect is being able to look at the model and determine which activation function to use since they all have different properties which can significantly change the output. 
+
+Rectified Linear Activation Function (ReLU)  
+ReLU is the most commonly used activation function for a number of reasons. Firstly, it diminishes the vanishing gradient problem. Since the gradient (derivative) of the ReLU function can only be 0 or 1, there is no vanishing gradient. Another benefit of the ReLU activation function is that it is less computationally expensive when compared to sigmoid or tanh functions since it has simpler mathematical operations. One use case for the ReLU function is almost anythin as it is by far the most commonly used activation function. For example, it is very often used to train the models with the mnist database.  
+
   
   
 <a name="7-21"></a>
