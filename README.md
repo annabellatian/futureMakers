@@ -10,6 +10,9 @@
 9. [7-14-2021](#7-14)
 10. [7-15-2021](#7-15)
 11. [7-16-2021](#7-16)
+14. [7-19-2021](#7-19)
+15. [7-20-2021](#7-20)
+16. [7-21-2021](#7-21)
   
   
 
@@ -149,9 +152,23 @@ https://medium.com/swlh/fully-connected-vs-convolutional-neural-networks-813ca7b
   
   
 <a name="7-19"></a>
-### Day 12: 7-19-2021   
-  
+### Day 14: 7-19-2021   
+We learned about loss functions, which really helped to explain another aspect to evaluate in our ML models. Rather than simply taking into account the accuracy, the loss functions allow developers to understand how the model can be improved. I didn't know that there were ways to evaluate the loss function based on the confidence of the model's answer. We also learned about model optimization, which is especially important since different parameters of the model can always be improved. My mentor explained these aspects in my code, helping me understand what we learned in context.
   
   
 <a name="7-20"></a>
-### Day 13: 7-20-2021   
+### Day 15: 7-20-2021   
+Activation Functions  
+Although we learned about activation functions before, we dove deeper into the topic, learning about the various types and how they actually work. While it got a bit confusing with the different types and the math behind them, I understand the general concept. I think the most important aspect is being able to look at the model and determine which activation function to use since they all have different properties which can significantly change the output. 
+  
+  
+<a name="7-21"></a>
+### Day 16: 7-21-2021  
+  
+  
+  
+<a name="7-22"></a>
+### Day 17: 7-22-2021   
+
+
+
