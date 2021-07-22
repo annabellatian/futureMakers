@@ -13,6 +13,7 @@
 14. [7-19-2021](#7-19)
 15. [7-20-2021](#7-20)
 16. [7-21-2021](#7-21)
+17. [7-22-2021](#7-22)
   
   
 
@@ -177,12 +178,51 @@ Why are algorithmic details not disclosed?
 - opacity of algorithms (blackbox)
 - conflict between accuracy and individual rights/autonomy  
   
-Fairness vs. Accuracy
+Fairness vs. Accuracy  
+By using the COMPAS system as an example, I was able to learn about the prevalence of bias in AI and the obstacles in overcoming it. It wasn't as simple as I initially thought as it is dependent on a huge number of factors and even being aware of these aspects is not enough to address the problem. It was interesting to learn about the different types of biases as they can originate from different sources as well as have different effects on the model.
   
   
   
 <a name="7-22"></a>
 ### Day 17: 7-22-2021   
+Today, we learned about image classification and the ways in which data must be pre-processed and how the layers should be set up to produce a meaningful output. I haven't gotten to the action items for today but will elaborate more once I have run actual code.  
+  
+We also had a seminar with Dr. Jennifer Chu-Carroll. Her presentation was extremely interesting as she dove into the NLP projects she has worked on, including the Watson Jeopardy! project. By demonstrating the progress and the obstacles of the project, I learned a lot about AI! She showed us that while the technology was used on a game show, it had potential to help children with reading comprehension. Additionally, she described the challenges they faced, such as the explainability of the model, misunderstandings of jargon, and connecting synonyms/entailment. However, the technology she described was still incredibly advanced and intriging to learn about. Really inspiring!  
+After that, she continued to explain her more recent projects, such as the virtual travel agent software. The chat function she showed us seemed incredibly advanced and very natural. Her work is truly inspiring! Maybe I'd like to go into NLP?
 
 
-
+  
+<a name="7-23"></a>
+### Day 18: 7-23-2021  
+  
+  
+  
+<a name="7-26"></a>
+### Day 19: 7-26-2021  
+  
+  
+  
+<a name="7-27"></a>
+### Day 20: 7-27-2021  
+  
+  
+  
+<a name="7-28"></a>
+### Day 21: 7-28-2021  
+  
+  
+  
+<a name="7-29"></a>
+### Day 22: 7-29-2021  
+  
+  
+  
+<a name="7-30"></a>
+### Day 23: 7-30-2021  
+  
+  
+  
+  
+  
+  
+  
