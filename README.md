@@ -168,6 +168,16 @@ ReLU is the most commonly used activation function for a number of reasons. Firs
   
 <a name="7-21"></a>
 ### Day 16: 7-21-2021  
+Ethics-Driven Machine Learning  
+"Garbage-in, garbage-out"  
+Why are algorithmic details not disclosed?  
+- sensitive data
+- making system vulnerable
+- harm company property rights
+- opacity of algorithms (blackbox)
+- conflict between accuracy and individual rights/autonomy  
+  
+Fairness vs. Accuracy
   
   
   
