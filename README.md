@@ -199,6 +199,9 @@ After that, she continued to explain her more recent projects, such as the virtu
   
 <a name="7-26"></a>
 ### Day 19: 7-26-2021  
+Autoencoder: neural network that learns data representations through unsupervised manner  
+1. Encoder: learns the compressed representation of input data
+2. Decoder: reconstructs input data by depressing compact representation
   
   
   
