@@ -207,6 +207,9 @@ Autoencoder: neural network that learns data representations through unsupervise
   
 <a name="7-27"></a>
 ### Day 20: 7-27-2021  
+Applications of Affective Computing  
+1. As presented by Dr. Ajjen Joshi, one application could be detecting drowsiness when driving. This involves an ML model that uses computer vision to analyze the facial expression/features of the driver.
+2. Another application could be in the field of teaching. By using ML to analyze the learning patterns of students, the model can predict the best learning method for various subjects and students.  
   
   
   
