@@ -1,4 +1,4 @@
-# MIT FutureMakers
+# mit-futuremakers
 
 ## Responses
 1. [7-6-2021](#7-6)
