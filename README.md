@@ -14,6 +14,12 @@
 15. [7-20-2021](#7-20)
 16. [7-21-2021](#7-21)
 17. [7-22-2021](#7-22)
+18. [7-23-2021](#7-23)
+19. [7-26-2021](#7-26)
+20. [7-27-2021](#7-27)
+21. [7-28-2021](#7-28)
+22. [7-29-2021](#7-29)
+
   
   
 
@@ -215,11 +221,39 @@ Applications of Affective Computing
   
 <a name="7-28"></a>
 ### Day 21: 7-28-2021  
+NLP
   
   
   
 <a name="7-29"></a>
 ### Day 22: 7-29-2021  
+Computer Vision 
+- Image classification (with localization)
+  - Localization: outlines object with box
+- Object Detection
+  - Multiple objects
+- Object Segmentation
+  - Segmentation: assigns pixels to object
+  - Semantic Segmentation: assigns a label to each pixel
+  - Instance Segmentation: differentiates all instances in each class
+- Object Tracking: following object over tiime
+- Pose Estimation: deducing joints of body
+- Image Generation
+- Image Style Transfer
+- Image Colorization
+- Image Reconstruction
+- Image Super-Resolution
+- Image Synthesis
+  - Deep fakes
+- Image Enhancement
+- Face detection, recognition, verification
+- Emotion Detection (affective computing). 
+
+Generative Adversarial Networks (GANs)
+- Generator model learns to generate plausible data
+  - Ex. CNN
+- Discriminator model: distinguishes generator's data and real data
+  
   
   
   
