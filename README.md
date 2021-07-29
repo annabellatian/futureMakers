@@ -205,9 +205,33 @@ After that, she continued to explain her more recent projects, such as the virtu
   
 <a name="7-26"></a>
 ### Day 19: 7-26-2021  
-Autoencoder: neural network that learns data representations through unsupervised manner  
+Autoencoder: neural network that learns data representations through unsupervised manner (latent space, hourglass shape)    
+- Data-specific
+- Lossy
+- Automatic  
+
 1. Encoder: learns the compressed representation of input data
-2. Decoder: reconstructs input data by depressing compact representation
+  - Decreases number of features (downsampling)
+  - Information lost from decrease in features (dimensions)
+  - Features (data) that remains is "important"  
+3. Decoder: reconstructs input data by depressing compact representation
+  - Takes lower dimension to higher dimension (upsampling)
+  - Input cannot be recreated because of loss of information
+  - Goal: output is same as input, reduce dimension of data while not losing information, minimize reconstruction loss
+
+Applications: complex data (many features), dimensionality reduction, data denoising, feature estimation, generation of synthetic data  
+  
+Variations
+- Convolutional: each layer is a CNN *
+- Variational (VAE): distribution of data *
+  - Constructs probability distribution of each feature
+- Denoise: feature extractor, determines important parts and loses noise in image 
+  
+  
+Upsampling (Unpooling)
+- Nearest Neighbor
+- Bed of Nails
+- Bi-linear Interpolation
   
   
   
